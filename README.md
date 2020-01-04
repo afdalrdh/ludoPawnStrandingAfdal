@@ -1,0 +1,2 @@
+# ludoPawnStrandingAfdal
+Tubes ludo tekuat
